@@ -1,0 +1,40 @@
+_repo: Ghost-Beyond-the-Gate_34395
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34395-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wirt, Mildred A. (Mildred Augustine)
+    aliases:
+    - Benson, Millie
+    - Wirt, Mildred Augustine
+    - Benson, Mildred Wirt
+    - Wirt, Ann
+    - Augustine, Mildred
+    birthdate: 1905
+    deathdate: 2002
+    gutenberg_agent_id: '37000'
+    url: http://www.gutenberg.org/2009/agents/37000
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/c#a36376
+    - http://en.wikipedia.org/wiki/Mildred_Benson
+description: ''
+gutenberg_issued: '2010-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Parker, Penny (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Ghost stories'
+- !lcsh 'Adventure stories'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Women detectives -- Juvenile fiction'
+title: Ghost Beyond the Gate
+url: http://www.gutenberg.org/ebooks/34395
